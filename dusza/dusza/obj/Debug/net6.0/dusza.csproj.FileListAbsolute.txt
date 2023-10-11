@@ -1,0 +1,15 @@
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\bin\Debug\net6.0\dusza.exe
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\bin\Debug\net6.0\dusza.deps.json
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\bin\Debug\net6.0\dusza.runtimeconfig.json
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\bin\Debug\net6.0\dusza.dll
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\bin\Debug\net6.0\dusza.pdb
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.csproj.AssemblyReference.cache
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.AssemblyInfoInputs.cache
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.AssemblyInfo.cs
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.csproj.CoreCompileInputs.cache
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.dll
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\refint\dusza.dll
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.pdb
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\dusza.genruntimeconfig.cache
+C:\Users\sinka.jozsef\source\repos\dusza\dusza\obj\Debug\net6.0\ref\dusza.dll
